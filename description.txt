@@ -1,0 +1,2 @@
+Activity List=['ScreenUsage', 'HeartRate', 'ActivFit', 'storage', 'Notif', 'BatterySensor', 'Bluetooth', 'LightSensor', 'Activity']
+Number of User: 739
